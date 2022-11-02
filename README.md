@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angel Lopez🚀</h1>
-<img src="https://user-images.githubusercontent.com/88790737/199573473-54b3dd40-46a9-4c1a-b5e0-ac26fcaed37e.png" align="center"style="width: 80rem" />
+<a href"https://miduconf.com/ticket/LopezAG17"><img src="https://user-images.githubusercontent.com/88790737/199573473-54b3dd40-46a9-4c1a-b5e0-ac26fcaed37e.png" align="center"style="width: 80rem" /><>
 <h2 align="center">👨‍💻A passionate frontend developer👨‍💻</h2>
 <div>
 <img src="https://camo.githubusercontent.com/e924ea779fb9325a23e12c11067ce8844707c162e0f905bbd23577c411677de7/68747470733a2f2f696d67732e7365617263682e62726176652e636f6d2f63545776734b7632466337433555444535616e4472434572424c4d75706b4439424151514c33585054424d2f72733a6669743a3830303a3630303a312f673a63652f6148523063484d364c79396a5a4734752f5a484a70596d4a6962475575593239742f4c33567a5a584a7a4c7a45774e546b312f4f444d7663324e795a575675633268762f64484d764e4445334d544d324e79396a2f62325270626d63745a6e4a6c595773752f5a326c6d2e676966" align="right" style="width: 15rem" />
