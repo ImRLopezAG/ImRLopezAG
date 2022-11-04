@@ -27,6 +27,7 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a> 
+ <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 </div>
 
 </td><td style="border: none" valign="top" width="33%">
@@ -77,4 +78,4 @@
 
 ## Resent listen
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=212zpqm3wgosqydvpzje6tn4q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></div>
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=212zpqm3wgosqydvpzje6tn4q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=falsehttps://spotify-github-profile.vercel.app/api/view?uid=212zpqm3wgosqydvpzje6tn4q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></div>
