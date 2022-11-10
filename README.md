@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **_movie manager._**
 
-- 🌱 I’m currently learning **_React, bootstrap, vue._**
+- 🌱 I’m currently learning **_React, Tailwind, Vue._**
 - ⚡ Fun fact: **_I use spaces over tabs._**
 - 📫 How to reach me **angelg00lopez@gmail.com**
 </div>
