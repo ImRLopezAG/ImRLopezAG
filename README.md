@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Angel Lopez🚀</h1>
+<h1 align="center">Hi 👋, I'm Angel Gabriel Lopez🚀</h1>
 <a href"https://miduconf.com/ticket/LopezAG17"><img src="https://user-images.githubusercontent.com/88790737/199573473-54b3dd40-46a9-4c1a-b5e0-ac26fcaed37e.png" align="center"style="width: 80rem" /></a>
 <h2 align="center">👨‍💻A passionate frontend developer👨‍💻</h2>
 <div>
