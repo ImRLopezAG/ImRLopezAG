@@ -65,6 +65,7 @@
 ## Connect with me
 
 <p align="left">
+ <a href="https://linkedin.com/in/angel-gabriel-lopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angel gabriel lopez" height="30" width="40" /></a>
 <a href="https://twitter.com/imr_lopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imr_lopez" height="30" width="40" /></a>
 <a href="https://instagram.com/imr_lopez.ag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imr_lopez.ag" height="30" width="40" /></a>
 </p>
