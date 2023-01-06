@@ -75,10 +75,8 @@
 <div align="row">
  
 <a ><img align="left" src="https://github-readme-stats.vercel.app/api?username=imrLopezag&show_icons=true&theme=dark" alt="lopezag17" style="width: 18rem" /></a>
-
-<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrLopezag&layout=compact&theme=dark" alt="lopezag17" style="width: 18rem" /></a>
- 
-<a><img aling="left" src="https://github-readme-streak-stats.herokuapp.com?user=ImRLopezAG&theme=dark&hide_border=true" alt="lopezag17" style="width: 18rem" /></a>
+<a><img aling="center" src="https://github-readme-streak-stats.herokuapp.com?user=ImRLopezAG&theme=dark&hide_border=true" alt="lopezag17" style="width: 18rem" /></a>
+<a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrLopezag&layout=compact&theme=dark" alt="lopezag17" style="width: 18rem" /></a>
  
 </div>
 </br>
