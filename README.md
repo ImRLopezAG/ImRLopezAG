@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning **_React, Tailwind**
 - ⚡ Fun fact: **_I use spaces over tabs._**
 - 📫 How to reach me **__angelg00lopez@gmail.com__**
+- 📋 Look at my resume here [Full Stack Developer](https://docs.google.com/document/d/176L3kfuVECauW3vadR9yKZREDEfgXDadVGqQ3zm51wc)
  
 </div>
 
