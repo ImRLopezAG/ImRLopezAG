@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Angel Gabriel Lopez🚀</h1>
-<a href"https://miduconf.com/ticket/ImRLopezAG"><img src="https://user-images.githubusercontent.com/88790737/199573473-54b3dd40-46a9-4c1a-b5e0-ac26fcaed37e.png" align="center"style="width: 80rem" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Angel+Gabriel+Lopez%F0%9F%9A%80)](https://git.io/typing-svg)
+##
+
+<a href="https://miduconf.com/ticket/ImRLopezAG">
+ <img src="https://user-images.githubusercontent.com/88790737/199573473-54b3dd40-46a9-4c1a-b5e0-ac26fcaed37e.png" align="center"style="width: 80rem" />
+</a>
 <h2 align="center">👨‍💻A passionate frontend developer👨‍💻</h2>
 <div>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ImRLopezAG&color=green" alt="angel" /> </p>
