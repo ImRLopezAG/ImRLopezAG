@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Angel+Gabriel+Lopez%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Angel+Gabriel+Lopez%F0%9F%9A%80)](https://git.io/typing-svg)
 ##
 
 <a href="https://miduconf.com/ticket/ImRLopezAG">
