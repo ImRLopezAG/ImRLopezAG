@@ -86,7 +86,7 @@
 
 <div >
  
-<a><img align="left"  src="https://git-readme-stats-87501p7gg-imr-lopez-ag.vercel.app/api/?username=imrLopezag&layout=compact&theme=dark" alt="lopezag17" style="width: 18rem" /></a>
+ <a><img align="left"  src="https://git-readme-stats-87501p7gg-imr-lopez-ag.vercel.app/api/top-langs?username=imrLopezag&layout=compact&theme=dark" alt="lopezag17" style="width: 18rem" /></a>
  
 <a href="https://imrlopez.dev"><img align="center" src="https://git-readme-stats-87501p7gg-imr-lopez-ag.vercel.app/api/pin/?username=imrlopezag&repo=portfolio&theme=dark" alt="lopezag17" style="width: 18rem" /></a>
 
