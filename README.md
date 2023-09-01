@@ -8,7 +8,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=ImRLopezAG&color=green)
 
-- 🌱 I’m currently learning **React** and **Tailwind**
+- 🌱 I’m currently learning **Next js** and **GraphQl**
 - ⚡ Fun fact: I use spaces over tabs.
 - 📫 How to reach me: angelg00lopez@gmail.com
 - 📋 Look at my resume here: [Full Stack Developer](https://docs.google.com/document/d/176L3kfuVECauW3vadR9yKZREDEfgXDadVGqQ3zm51wc)
@@ -27,7 +27,6 @@
 <a href="https://twitter.com/imr_lopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imr_lopez" height="30" width="40" /></a>
 <a href="https://instagram.com/imr_lopez.ag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imr_lopez.ag" height="30" width="40" /></a>
 </p>
-
 
 ## Github Stats
 
