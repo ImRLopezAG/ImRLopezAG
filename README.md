@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=440&lines=Hi%F0%9F%91%8B%F0%9F%8F%BD%2C+I'm+%3CAngel-Lopez%2F%3E++%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ##
-
-[![ticket](https://user-images.githubusercontent.com/88790737/199573473-54b3dd40-46a9-4c1a-b5e0-ac26fcaed37e.png)](https://miduconf.com/ticket/ImRLopezAG)
+![image](https://github.com/ImRLopezAG/ImRLopezAG/assets/88790737/01524b04-e2cf-4f01-a4f7-91c9f93e8fe7)
 
 # 👨‍💻A passionate frontend developer👨‍💻
 
