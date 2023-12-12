@@ -32,9 +32,10 @@
 
 ## Github Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=imrLopezag&show_icons=true&theme=dark)
-![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=ImRLopezAG&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=imrLopezag&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ImRLopezAG&locale=en&mode=daily&theme=discord_old_blurple&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImRLopezAG&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
 ## About me
 
